@@ -1,6 +1,11 @@
 public class RadixSort {
+    public String[] Rdx(String[] arr) {
 
-    public void Rdx(String s){
+        int maxLen = 0;
+        for (int i = 0; i < arr.length; i++){
+            if(arr[i].length() > maxLen){
 
+            }
+        }
     }
 }
