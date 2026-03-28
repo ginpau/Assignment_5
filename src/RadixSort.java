@@ -1,6 +1,6 @@
 public class RadixSort {
 
-    public String Rdx(){
+    public void Rdx(String s){
 
     }
 }
